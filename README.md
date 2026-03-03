@@ -1,5 +1,7 @@
 # AUTH48 for RFC-to-be 9945 <draft-ietf-modpod-group-processes-16> (in markdown)
 
+## Note: This repo may be out of date. RFC 9945 has been published; see the [info page](https://www.rfc-editor.org/info/rfc9945) to access the RFC and any related metadata. 
+
 This repository is for managing document updates for RFC 9945 during AUTH48. This is part of the [pilot GitHub-based process for AUTH48](https://www.rfc-editor.org/rpc/wiki/doku.php?id=rpc_github_roadmap), and it emulates the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/). 
 
 Please see the [License](https://github.com/rfc-editor/rfc9945-AUTH48/blob/main/LICENSE.md). The [IETF Note Well](https://github.com/rfc-editor/rfc9945-AUTH48/blob/main/note-well.md) applies.
